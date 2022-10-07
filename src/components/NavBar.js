@@ -6,13 +6,13 @@ export const NavBar = () => {
     <nav>
       <ul>
         <li>
-          <NavLink class="index-link" to="/">
+          <NavLink className="index-link" to="/">
             Index Page
           </NavLink>
         </li>
 
         <li>
-          <NavLink class="home-link" to="/home">
+          <NavLink className="home-link" to="/home">
             Home Page
           </NavLink>
         </li>
